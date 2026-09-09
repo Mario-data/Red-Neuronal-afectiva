@@ -2,7 +2,7 @@
 
 Desarrollo de una **Red Neuronal Convolucional (CNN)** para clasificar dibujos de caras, discriminando entre 6 categorías emocionales: **Alegría, Asco, Ira, Miedo, Sorpresa y Tristeza**.
 
-El proyecto utiliza más de 2500 dibujos, creados en Paint, incorporando variabilidad en tamaño, posición y diversas características gráficas.
+El proyecto utiliza **más de 2500 dibujos**, creados en Paint, incorporando variabilidad en tamaño, posición y diversas características gráficas.
 
 ## Resultados
 
@@ -14,6 +14,6 @@ El modelo fue evaluado mediante **matriz de confusión** e indicadores como **Pr
 
 **Python**(`TensorFlow`, `Keras`, `Scikit-learn, `NumPy`, `Matplotlib`)
 
-## Notebook
+## Archivo
 
 El análisis completo, incluyendo metodología, código, entrenamiento, evaluación y resultados, se encuentra en `CNN_Ekman.ipynb`
