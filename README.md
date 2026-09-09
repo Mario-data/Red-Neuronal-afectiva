@@ -12,7 +12,7 @@ El modelo fue evaluado mediante **matriz de confusión** e indicadores como **Pr
 
 ## Tools
 
-**Python**(`TensorFlow`, `Keras`, `Scikit-learn, `NumPy`, `Matplotlib`)
+**Python**(`TensorFlow`, `Keras`, `Scikit-learn`, `NumPy`, `Matplotlib`)
 
 ## Archivo
 
