@@ -16,4 +16,4 @@ El modelo fue evaluado mediante **matriz de confusión** e indicadores como **Pr
 
 ## Archivo
 
-El análisis completo, incluyendo metodología, código, entrenamiento, evaluación y resultados, se encuentra en `CNN_Ekman.ipynb`
+El análisis completo (incluyendo metodología, código, entrenamiento, evaluación y resultados) se encuentra en `CNN_Ekman.ipynb`
